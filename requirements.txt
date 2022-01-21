@@ -18,7 +18,7 @@ greenlet==0.4.15
 grip==4.5.2
 idna==2.9
 ipykernel==5.1.4
-ipython==7.13.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.16.0
